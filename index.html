@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=-2.0, maximum-scale=-2.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Todo List</title>
+</head>
+
+<body>
+    <header id="heading" class="heading">
+        <h1>Personal To Do List</h1>
+    </header>
+
+    <main id="box" class="box">
+        <section>
+            <div class="box-head">
+                <p>Feeling disorganized? Let's help you schedule your plans for today!</p>
+            </div>
+            <form id="form" class="form">
+                <input type="text" class="item-input" id="form-item">
+                <input type="submit" class="box-head-btn" value="submit">
+            </form>
+        </section>
+        <section>
+            <h1 class="item-header">Plans</h1>
+            <ul class="lists" id="itemList" class="" list-group>
+                <li class="list-group-item"> Get to Work<button class="buttonbtn">X</button></li>
+                <li class="list-group-item"> Complete the fashion store business plan<button class="buttonbtn">X</button></li>
+                <li class="list-group-item"> Get to the mall <button class="buttonbtn">X</button></li>
+                <li class="list-group-item" id="last"> See Ozark on Netflix<button class="buttonbtn">X</button></li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
