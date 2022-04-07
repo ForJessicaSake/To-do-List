@@ -18,7 +18,7 @@ background-color: rgb(159, 159, 219);
 .box{
     border: 1px solid black;
     margin: 2.5%;
-    padding: 15px;
+    padding: 25px;
 }
 
 .box-head{
@@ -88,6 +88,11 @@ background-color: rgb(159, 159, 219);
          padding: 0;
          overflow-x: hidden;
      }
+. box{
+    border: 1px solid black;
+    margin: 2.5%;
+    padding: 10px;
+}
     }
  @media only screen and (max-width: 768px) and (min-width: 481px) {
      html,
