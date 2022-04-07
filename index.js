@@ -6,8 +6,7 @@ var filter = document.getElementById('filter');
 form.addEventListener('submit', addItem);
 //delete event
 itemList.addEventListener('click', removeItem);
-//filter event
-filter.addEventListener('keyup', filterItems);
+
 
 
 //Add item function

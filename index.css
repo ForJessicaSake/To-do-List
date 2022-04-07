@@ -88,7 +88,8 @@ background-color: rgb(159, 159, 219);
          padding: 0;
          overflow-x: hidden;
      }
-. box{
+
+.box{
     border: 1px solid black;
     margin: 2.5%;
     padding: 10px;
@@ -115,7 +116,7 @@ background-color: rgb(159, 159, 219);
          overflow-x: hidden;
      }
 
-. box{
+.box{
     border: 1px solid black;
     margin: 2.5%;
     padding: 10px;
