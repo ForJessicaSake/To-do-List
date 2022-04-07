@@ -93,6 +93,12 @@ background-color: rgb(159, 159, 219);
     margin: 2.5%;
     padding: 10px;
 }
+
+.heading h1{
+   color: white;
+   font-size: 15px;
+}
+
     }
  @media only screen and (max-width: 768px) and (min-width: 481px) {
      html,
@@ -102,6 +108,18 @@ background-color: rgb(159, 159, 219);
          padding: 0;
          overflow-x: hidden;
      }
+
+. box{
+    border: 1px solid black;
+    margin: 2.5%;
+    padding: 10px;
+}
+
+.heading h1{
+   color: white;
+   font-size: 15px;
+}
+
     }
      @media only screen and (max-width: 1024px) and (min-width: 769px) {
      html,
