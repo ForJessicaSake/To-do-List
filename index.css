@@ -6,7 +6,7 @@
 }
 
 .heading{
-padding: 30px;
+padding: 20px;
 background-color: rgb(159, 159, 219);
 }
 
@@ -18,7 +18,7 @@ background-color: rgb(159, 159, 219);
 .box{
     border: 1px solid black;
     margin: 2.5%;
-    padding: 25px;
+    padding: 15px;
 }
 
 .box-head{
